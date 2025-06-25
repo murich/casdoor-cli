@@ -1,6 +1,6 @@
 module gitlab.com/sdv9972401/casdoor-cli
 
-go 1.21
+go 1.22.0
 
 require (
 	github.com/casdoor/casdoor-go-sdk v0.41.0
